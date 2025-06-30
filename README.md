@@ -32,3 +32,4 @@ If you have any questions or inquiries, please feel free to reach out to me thro
 
 Thank you for visiting my portfolio repository! I hope you find it informative and visually appealing.
 
+![portpolio1](https://github.com/user-attachments/assets/f06af2ed-4036-475f-8042-536945fda935)
